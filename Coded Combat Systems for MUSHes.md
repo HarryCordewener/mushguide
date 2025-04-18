@@ -6,7 +6,6 @@
 * ... ensure that the gap between a new player and an existing player does not feel insurmountable.
 * ... allow for a boost for someone being challenged by multiple players, when it does not focus only on 1v1 battles.
 * ... allow a player to set their own combat stats, so that staff only needs to approve, or request adjustments, to avoid staff burnout.
-* ... make it painless for staff to do administrative tasks, to avoid staff burnout.
 * ... store a combat session's status, so that it can be continued without anyone being bound to not pursue other events in between.
 * ... give an easy oversight of combat events.
 * ... give an easy oversight of combat members and their most recent target(s).
