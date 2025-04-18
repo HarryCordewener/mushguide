@@ -8,4 +8,5 @@ This is for anyone looking to create a MUSH and wants a checklist and some insig
 * Trakata @ Star Wars: Generations of Darkness / Dawn of Defiance - Plot Wiz & Head Wizard
 * Liminality @ Elder Tale Online - Head Wizard
 ## Where should I start?
-I recommend starting at the [[Admin Guidelines]] file, and going from there. 
+Start at the [[Admin Guideline Intro]] file, and going from there. 
+Check out the guide on [[Plots]] and check out [[Frequent Issues]] as well, and when you are ready, go to [[Typical MUSH Requirements]] for help on establishing the initial game requirements.

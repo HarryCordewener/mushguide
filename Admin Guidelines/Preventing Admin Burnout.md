@@ -1,0 +1,11 @@
+## Make Admin Lives Easier: Player Forward Administration
+No matter how many admins you hire, there will always be more Players than Admins. As a natural follow-up to that, there will commonly be more requests than admins. As such, make your Request Workflow player-forward. This means that **the majority of work should be done by the player, not the admin**. The less commands an Admin has to do, the better. Admin are invested in the enjoyment of the MUSH's players, but **nobody is as invested in the characters as the players themselves**.
+#### Direct Steps
+* [[Coded Combat Systems for MUSHes|Combat Systems]] (If applicable)
+	* Make the player put in the work of setting up their character stats etc., and ensure code exists that ensures the player is within the 'limit' of their required stats etc. Illegal variances of stats, attacks, etc., should be player-forward, codified, and for them to resolve, instead of the admin. Ensure that there are plenty of examples! This ensures the admin only has to review and press an 'approve' button. 
+* [[Application Systems for MUSHes|Applications]]
+	* Ensure that the admin only has to review the character, and approve them. Do not put the approval staff in a position where they have to copy over text, or set up combat stats for a character. The application process should be minimum impact on your application admin! Otherwise, you start seeing high turn-around times, and player frustration.
+* *Codified Stories* (If applicable)
+	* Make Plot Staff's lives easier, and give an easy-to-create codified story generator. Seen on games such as Dream Chasers MUSH and Elder Tale Online, this is a codified series of 'Skill Challenges' for a party of players to undertake. Giving them minor rewards to successful completion can help, and can help your players get together more easily and generate roleplay, lowering the long-term pressure on your Plot Staff. Especially if you give Players the ability to build them from within the game, so Plot Staff just has to Approve / Request Changes!
+## What other steps can I take?
+Though more intrinsic, take care in [[Building your Admin Core]] to have enough people, and set clear [[Communication]] guidelines. 

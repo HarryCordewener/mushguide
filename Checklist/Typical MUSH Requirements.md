@@ -1,5 +1,5 @@
 To create a successful MUSH, typically there's a series of requirements to meet, commands and organization wise.
-# Website
+# Have a Website
 It is typical these days to have a website for your MUSH these days, to help advertise and introduce the MUSH to your (potential) players. It should list the connection address front and center on the main landing.
 ## Source of Information
 A MUSH website tends to be the main source of Information about your MUSH. And it's quite normal to use a Wiki, such as MediaWiki or WikiJS. 
@@ -20,7 +20,7 @@ Either use a Scene System or give players a way to put their roleplay on your we
 ### Combat System
 Have a Combat System, or other Resolution System? Nice, give them a tutorial and visual instructions! 
 It's good to have its commands available on your game by means of `+help`, but a combat system can be an attractor, so make sure to give good insights here.
-# A Game
+# Have A Game
 ## Commands
 ### Minimum Requirements
 `+staff`: List staff members
@@ -32,8 +32,36 @@ It's good to have its commands available on your game by means of `+help`, but a
 `+job`: A Job System. Myrrdin's is pretty popular.
 `+app`: A way for a player to submit their application on-game.
 `+finger` / `+info`: A way for players to see information about another character.
+`ooc`: Enable a clear marker for OOC communication, similar to `say` etc.
+`+ic` / `+ooc`: Allow a player to easily go to the IC or OOC grid.
+### Good to Have
+`+join`: Make it easy for players to join other players!
 ## Channels
 ### Minimum Requirements
 `public`: A way for your players to communicate amongst one-another.
 `guest` / `newbie`: A way for your new players to get help on their applications.
 `admin` / `staff`: A locked channel for the staff to inter-communicate.
+## Rooms
+### Minimum Requirements
+`OOC Nexus`: The room people hang around in, with an easy access to the IC Grid.
+`IC Grid`: The main region where you want play to occur. Have a few rooms so people can spread out, but not so many that people can't find each-other (unless you have a command to easily get from point A to point B)
+# Have A Plan
+## Plot Plan
+### Short Term Plans
+> Coming soon
+### Long Term Vision
+> Coming soon
+## Launch Plan
+### Advertise!
+* Have an advertisement ready and spread it to multiple games. 
+* Make sure to list your game ahead of time on places like Mudstats.com. 
+### Prepare your Guest Objects
+* Make sure you have Guest Objects ready to receive new players when you open your doors. 
+### Announce ahead of Time
+* Announce a few months ahead of time, and again, advertise!
+### Have your Staff Ready
+* Make sure everyone is ready to go.
+### When to Open?
+* Around April to July appears to be a good time to open a MUSH, based on learnings.
+* Avoid times with a lot of intensive holidays. As such, avoid November, December, January.
+* It can be good to have the opportunity for people to log into your Game or Community Discord as Guests a few days before opening, to build hype.
