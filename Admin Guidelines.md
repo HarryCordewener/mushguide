@@ -27,6 +27,9 @@ Sourcing viable admin is hard, and creating a MUSH is a community project. Ensur
 * **Code Staff**: The person who helps the MUSH vision come to fruition through Systems etc. A Code Wiz's job is never truly done. It is important for a director to give them clear guidelines or command patterns, where needed, if requesting new commands or require changes.
 * **2 x Plot Staff**: The people who help the Director with their plot direction by running events, and help players bring their narratives to fruition. Communication between them and the Director to ensure their vision is aligned is critical. It is important to have two, because if one person is running all the plots, they don't get to play! *This can be lowered to 1 if you have Players who are actively running Plots*. But that can be dangerous to rely on.
 * **Application Staff**: The person who ensures players actually get to play. They often have a critical eye for detail. It is important for Application Wizards to have an internal document available for what is an acceptable application vs what is not, so that their job can be easy and consistent.
+#### Extra Staff
+* **Player Relations Staff**: I've found having a Player Relations Staffer can be critical to help your players voice their concerns and get some stress off of other admin. The job can be quiet and stressless in a calm community, or high stress during turmoil and times of change.
+* **Application Staff**: Having extra application staff is good to have during the first months of opening a game, or when the game has a large theme-base that needs more people to be able to share the knowledge-base workload. 
 ### Admin Communication
 Make sure there is an open forum for Admin Discussion and ensure admin have a say in the direction of the game, but also set healthy boundaries for where certain roles get a last say. 
 ### Player Communication
