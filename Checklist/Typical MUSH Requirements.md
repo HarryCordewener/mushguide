@@ -23,24 +23,24 @@ It's good to have its commands available on your game by means of `+help`, but a
 # Have A Game
 ## Commands
 ### Minimum Requirements
-`+staff`: List staff members
-`+who`: Modern who view
-`+where`: Where are people gathered?
-`+rp`: A way to indicate RP looking/not looking status. Should reset to 'off' on a CRON or on reconnect.
-`+help`: A way to see all of your custom commands at minimum, but can also contain theme information.
-`+bb`: A BBoard system. Myrrdin's is pretty popular.
-`+job`: A Job System. Myrrdin's is pretty popular.
-`+app`: A way for a player to submit their application on-game.
-`+finger` / `+info`: A way for players to see information about another character.
-`ooc`: Enable a clear marker for OOC communication, similar to `say` etc.
-`+ic` / `+ooc`: Allow a player to easily go to the IC or OOC grid.
+* `+staff`: List staff members
+* `+who`: Modern who view
+* `+where`: Where are people gathered?
+* `+rp`: A way to indicate RP looking/not looking status. Should reset to 'off' on a CRON or on reconnect.
+* `+help`: A way to see all of your custom commands at minimum, but can also contain theme information.
+* `+bb`: A BBoard system. Myrrdin's is pretty popular.
+* `+job`: A Job System. Myrrdin's is pretty popular.
+* `+app`: A way for a player to submit their application on-game.
+* `+finger` / `+info`: A way for players to see information about another character.
+* `ooc`: Enable a clear marker for OOC communication, similar to `say` etc.
+* `+ic` / `+ooc`: Allow a player to easily go to the IC or OOC grid.
 ### Good to Have
-`+join`: Make it easy for players to join other players!
+* `+join`: Make it easy for players to join other players!
 ## Channels
 ### Minimum Requirements
-`public`: A way for your players to communicate amongst one-another.
-`guest` / `newbie`: A way for your new players to get help on their applications.
-`admin` / `staff`: A locked channel for the staff to inter-communicate.
+* `public`: A way for your players to communicate amongst one-another.
+* `guest` / `newbie`: A way for your new players to get help on their applications.
+* `admin` / `staff`: A locked channel for the staff to inter-communicate.
 ## Rooms
 ### Minimum Requirements
 `OOC Nexus`: The room people hang around in, with an easy access to the IC Grid.
